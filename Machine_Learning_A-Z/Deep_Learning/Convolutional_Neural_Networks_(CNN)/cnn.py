@@ -1,5 +1,6 @@
 import datetime
 # Convolutional Neural Network
+
 import os
 os.chdir(r'C:\Users\willh\Udemy\Machine Learning A-Z\P14-Machine-Learning-AZ-Template-Folder\Part 8 - Deep Learning\Section 40 - Convolutional Neural Networks (CNN)')
 
